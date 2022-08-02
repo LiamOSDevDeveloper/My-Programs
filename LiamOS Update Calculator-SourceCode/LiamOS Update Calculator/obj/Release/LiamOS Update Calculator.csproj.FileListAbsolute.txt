@@ -1,0 +1,12 @@
+C:\Users\user\Music\LiamOS Update Calculator\LiamOS Update Calculator\bin\Release\LiamOS Update Calculator.exe.config
+C:\Users\user\Music\LiamOS Update Calculator\LiamOS Update Calculator\bin\Release\LiamOS Update Calculator.exe
+C:\Users\user\Music\LiamOS Update Calculator\LiamOS Update Calculator\bin\Release\LiamOS Update Calculator.pdb
+C:\Users\user\Music\LiamOS Update Calculator\LiamOS Update Calculator\obj\Release\LiamOS Update Calculator.csproj.AssemblyReference.cache
+C:\Users\user\Music\LiamOS Update Calculator\LiamOS Update Calculator\obj\Release\LiamOS Update Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Music\LiamOS Update Calculator\LiamOS Update Calculator\obj\Release\LiamOS_Update_Calculator.StartScreen.resources
+C:\Users\user\Music\LiamOS Update Calculator\LiamOS Update Calculator\obj\Release\LiamOS_Update_Calculator.Form2.resources
+C:\Users\user\Music\LiamOS Update Calculator\LiamOS Update Calculator\obj\Release\LiamOS_Update_Calculator.Properties.Resources.resources
+C:\Users\user\Music\LiamOS Update Calculator\LiamOS Update Calculator\obj\Release\LiamOS Update Calculator.csproj.GenerateResource.cache
+C:\Users\user\Music\LiamOS Update Calculator\LiamOS Update Calculator\obj\Release\LiamOS Update Calculator.csproj.CoreCompileInputs.cache
+C:\Users\user\Music\LiamOS Update Calculator\LiamOS Update Calculator\obj\Release\LiamOS Update Calculator.exe
+C:\Users\user\Music\LiamOS Update Calculator\LiamOS Update Calculator\obj\Release\LiamOS Update Calculator.pdb
